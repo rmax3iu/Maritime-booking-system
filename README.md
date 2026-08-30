@@ -110,6 +110,7 @@ Maritime-booking-system/
 ├── Rapport SAÉ 11.pdf        # Rapport du projet
 ├── LICENSE
 └── README.md
+└── README.en.md
 ```
 <br>
 
