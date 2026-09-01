@@ -89,7 +89,7 @@ Les pages carte d'embarquement, facture, tableau de bord et statistiques ont bie
 ## 🚀 Lancer le projet
 
 <p align="justify">
-<b>Application C# :</b> Pour lancer l'application C#, il faut ouvrir le dossier Progdans Visuel Studio, puis lancez l'exécution en appuyant sur F5 ou en cliquant sur la flèche verte. Vous pouvez également compiler le projet puis exécuter directement le fichier .exe généré.
+<b>Application C# :</b> Pour lancer l'application C#, il faut ouvrir le dossier Prog dans Visuel Studio, puis lancez l'exécution en appuyant sur F5 ou en cliquant sur la flèche verte. Vous pouvez également compiler le projet puis exécuter directement le fichier .exe généré.
 </p>
 
 <p align="justify">
