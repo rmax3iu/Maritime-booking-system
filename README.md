@@ -19,14 +19,20 @@
 Ce projet est un système de réservation pour une compagnie maritime fictive, développé en binôme dans le cadre d'un projet. Il se compose d'une application console en C# permettant d'effectuer une réservation, et d'un site web permettant de consulter les informations liées à cette réservation.
 </p>
 
-<p align="justify">
-L'API scolaire utilisée par le site web est aujourd'hui fermée. Le code reste disponible pour montrer le travail effectué, mais le site ne peut plus récupérer de données en direct pour certaines pages.
+> **L'API scolaire utilisée par le site web est aujourd'hui fermée**. Le code reste disponible pour montrer le travail effectué, mais le site ne peut plus récupérer de données en direct pour certaines pages.
 </p>
+
+<!-- |-------------------------------------------------------------------------------------------| -->
+<!-- |                                    TECHNOLOGIES                                           | -->
+<!-- |-------------------------------------------------------------------------------------------| -->
+## Technologies utilisées
+
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                       À PROPOS                                            | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
-## 🎯 À propos du projet
+## À propos du projet
 
 <p align="justify">
 L'application C# permet à un utilisateur de réserver une traversée pour des personnes et des véhicules. À l'issue de la réservation, un fichier au format JSON est généré et récapitule l'ensemble des informations saisies.
