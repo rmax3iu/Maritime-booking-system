@@ -19,14 +19,19 @@
 This project is a booking system for a fictional maritime company, developed in pairs as part of a school project. It consists of a C# console application allowing a user to make a booking, and a website allowing the information related to that booking to be consulted.
 </p>
 
-<p align="justify">
-The school API used by the website is now closed. The code remains available to showcase the work done, but the website can no longer fetch live data for certain pages.
-</p>
+> **The school API used by the website is now closed**. The code remains available to showcase the work done, but the website can no longer fetch live data for certain pages.
+
+<!-- |-------------------------------------------------------------------------------------------| -->
+<!-- |                                    TECHNOLOGIES                                           | -->
+<!-- |-------------------------------------------------------------------------------------------| -->
+## Technologies used
+
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 <!-- |-------------------------------------------------------------------------------------------| -->
 <!-- |                                       ABOUT                                               | -->
 <!-- |-------------------------------------------------------------------------------------------| -->
-## 🎯 About the project
+## About the project
 
 <p align="justify">
 The C# application allows a user to book a crossing for people and vehicles. Once the booking is complete, a JSON file is generated summarizing all the information entered.
